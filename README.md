@@ -4,11 +4,11 @@ About Me👦
  
  😎 I'm Abhishek, working as a Software Engineer.
  
- 💻 I'm a frontend developer.
+ 💻 I'm looking for a frontend development role.
  
  🎓 I graduated in 2021, B.Tech, CSE.
  
- 🛠 I'm currently working in MERN stack.
+ 🛠 I have started learning MERN stack.
  
  😀Pronouns: He/him
  
